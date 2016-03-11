@@ -2,7 +2,7 @@ package Aufgaben1;
 
 import javax.swing.*;
 
-public class JLabel {
+public class JFrame {
 
 	public static void main(String[] args) {
 		
