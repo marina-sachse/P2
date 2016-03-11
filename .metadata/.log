@@ -120,3 +120,6 @@ java.lang.IllegalArgumentException: Illegal value: -1
 	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
 	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:87)
 	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2016-03-11 13:42:14.098
+!MESSAGE Project facet jst.ejb has not been defined. It is used in plugin org.eclipse.jst.j2ee.
